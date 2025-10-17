@@ -1,3 +1,3 @@
 # aixmyuQRgen
-![baka](kyubeysama.png)
+![baka](kyubeysama.jpg)
 QR Generator Webapp
