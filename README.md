@@ -1,0 +1,2 @@
+# aixmyuQRgen
+QR Generator Webapp
